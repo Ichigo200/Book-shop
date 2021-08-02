@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\kaart\MiniPro\.metadata\.plugins\org.eclipse.jdt.core
+998077818.index
+3877016263.index
+2716831440.index
+474630272.index
